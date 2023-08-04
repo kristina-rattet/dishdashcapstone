@@ -60,31 +60,6 @@ Once you have set up the environment variables, you can safely run the applicati
 - Authorization and Authentication: [JSON Web Tokens](https://jwt.io/)
 - Important libraries: [@aws-sdk/client-s3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-s3/index.html), [stripe](https://stripe.com/docs/api), [mongoose](https://mongoosejs.com/), [cookies-next](https://www.npmjs.com/package/cookies-next), [next-swagger-doc](https://www.npmjs.com/package/next-swagger-doc), [general-formatter](https://www.npmjs.com/package/general-formatter)
 
-## Images
-
-### Home and Restaurant List
-
-![Home](./public/Home.png)
-
-![RestaurantList](./public/Home-restaurants.png)
-
-### Restaurant Dishes
-
-![RestaurantDishes](./public/Restaurant-dishes.png)
-
-### Cart and Checkout
-
-![Cart](./public/Cart.png)
-
-![checkout](./public/Checkout.png)
-
-### User Orders
-
-![UserOrders](./public/MyOrders.png)
-
-### Restaurant Admin
-
-![RestaurantAdmin](./public/restaurant-admin.png)
 
 ## Created by
 
